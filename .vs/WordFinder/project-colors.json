@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "681a0a5d-fbd3-4037-8c05-f6761a7ad919": {
+      "ProjectGuid": "681a0a5d-fbd3-4037-8c05-f6761a7ad919",
+      "DisplayName": "WordFinder",
+      "ColorIndex": 0
+    },
+    "fc62ca0d-af91-4163-878b-5ec34d470e98": {
+      "ProjectGuid": "fc62ca0d-af91-4163-878b-5ec34d470e98",
+      "DisplayName": "UnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

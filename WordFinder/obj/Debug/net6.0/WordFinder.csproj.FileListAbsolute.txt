@@ -1,0 +1,14 @@
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\WordFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\WordFinder.AssemblyInfoInputs.cache
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\WordFinder.AssemblyInfo.cs
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\WordFinder.csproj.CoreCompileInputs.cache
+C:\_APPS\word-finder\WordFinder\bin\Debug\net6.0\WordFinder.exe
+C:\_APPS\word-finder\WordFinder\bin\Debug\net6.0\WordFinder.deps.json
+C:\_APPS\word-finder\WordFinder\bin\Debug\net6.0\WordFinder.runtimeconfig.json
+C:\_APPS\word-finder\WordFinder\bin\Debug\net6.0\WordFinder.dll
+C:\_APPS\word-finder\WordFinder\bin\Debug\net6.0\ref\WordFinder.dll
+C:\_APPS\word-finder\WordFinder\bin\Debug\net6.0\WordFinder.pdb
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\WordFinder.dll
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\ref\WordFinder.dll
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\WordFinder.pdb
+C:\_APPS\word-finder\WordFinder\obj\Debug\net6.0\WordFinder.genruntimeconfig.cache
